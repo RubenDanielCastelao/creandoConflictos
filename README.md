@@ -6,5 +6,10 @@ Creo una nueva Rama
     git checkout delegado
 
 hago cambios en el proyecto
-commit
+    commit
+    
+    git commit -m "hago cambios"
+
+    git push origin Delegado
+
 
