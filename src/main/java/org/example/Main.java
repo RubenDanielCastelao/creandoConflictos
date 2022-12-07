@@ -5,8 +5,10 @@ public class Main {
 
             System.out.println("Hello world!");
 
-            System.outprintln(Corrige esto delegado);
+            System.out.println("Corrige esto delegado");
 
             //Comentario commit
+
+            System.out.println("Deberías aprender a programar");
       }
 }
